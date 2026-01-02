@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Automate - Web & n8n Solutions",
+  "description": "Premium freelance business site for web development and n8n automation services, featuring an AI-powered automation consultant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
