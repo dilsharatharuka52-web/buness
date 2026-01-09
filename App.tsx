@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
-import { BentoGrid } from './components/BentoGrid';
+import {BentoGrid} from './components/BentoGrid';
 import { Consultant } from './components/Consultant';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';

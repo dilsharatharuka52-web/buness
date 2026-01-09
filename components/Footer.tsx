@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
       <div className="max-w-7xl mx-auto px-6">
         <div className="grid md:grid-cols-4 gap-12 mb-20">
           <div className="col-span-2">
-            <span className="text-2xl font-black tracking-tighter text-white">NEXUS<span className="text-indigo-500">.</span></span>
+            <span className="text-2xl font-black tracking-tighter text-white">ZOY<span className="text-indigo-500">.</span></span>
             <p className="text-slate-500 text-sm mt-6 max-w-sm leading-relaxed">
               Engineering high-performance automation systems and digital experiences for the next generation of business.
             </p>
@@ -36,7 +36,7 @@ const Footer: React.FC = () => {
         
         <div className="flex flex-col md:flex-row justify-between items-center pt-10 border-t border-white/5 gap-6">
           <p className="text-slate-600 text-[10px] uppercase tracking-widest">
-            © {new Date().getFullYear()} Nexus Automate. Built with Passion & n8n.
+            © {new Date().getFullYear()} ZOY Automate. Built with Passion & n8n.
           </p>
           <div className="flex space-x-8 text-slate-600 text-[10px] uppercase tracking-widest">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>

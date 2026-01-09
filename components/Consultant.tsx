@@ -140,7 +140,7 @@ export const Consultant = () => {
             <div className="p-8 bg-slate-950/40 border-t border-white/5">
               <form onSubmit={handleSubmit} className="relative group max-w-4xl mx-auto">
                 <div className="absolute -inset-1 bg-gradient-to-r from-indigo-500/20 to-purple-500/20 rounded-[24px] blur opacity-0 group-focus-within:opacity-100 transition-opacity"></div>
-                <div className="relative flex gap-3 p-2 bg-slate-900 border border-white/10 rounded-[24px]">
+                <div className="relative flex gap-3 p-2 bg-slate-900 border border-white/10 rounded-[24px] sm:flex-row flex-col">
                   <input 
                     type="text"
                     value={input}

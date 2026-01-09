@@ -22,7 +22,7 @@ export const Navbar = ({ scrolled }: { scrolled: boolean }) => {
           : 'bg-transparent border-transparent'
       }`}>
         <div className="flex items-center px-4 mr-2">
-          <span className="text-xl font-black tracking-tighter text-white">NEXUS<span className="text-indigo-500">.</span></span>
+          <span className="text-[30px] font-black tracking-tighter text-white">ZOY<span className="text-indigo-500">.</span></span>
         </div>
         
         <div className="hidden md:flex items-center bg-white/5 rounded-xl border border-white/5 p-1">
