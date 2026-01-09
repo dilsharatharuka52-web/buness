@@ -96,7 +96,7 @@ const Contact: React.FC = () => {
                 <div>
                   <h4 className="text-white font-bold mb-1">WhatsApp</h4>
                   <a
-                    href="https://wa.me/94771234567?text=Hello%20I%20need%20your%20service"
+                    href="https://wa.me/94723097517"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-slate-400 text-sm hover:text-green-400"
